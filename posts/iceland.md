@@ -1,8 +1,8 @@
 ---
-title: A trip to Iceland
-author: 'Watson & Crick '
-date: '2019-07-10T16:04:44.000Z'
-hero_image: ../static/norris-niman-iceland.jpg
+title: Vegging Out
+author: Emily
+date: 2/10/2021
+hero_image: 'https://tse1.mm.bing.net/th?id=OIP.Dq1jnM9_V3A2HJ9UdHLx8gHaE6&pid=Api&P=0&w=262&h=175'
 ---
 Pseudotsuga menziesii is an evergreen conifer species in the pine family, Pinaceae. It is native to western North America and is known as Douglas fir,Douglas-fir,Oregon pine,and Columbian pine. There are two varieties: coast Douglas-fir (P. menziesii var. menziesii), and Rocky Mountain Douglas-fir (P. menziesii var. glauca).
 

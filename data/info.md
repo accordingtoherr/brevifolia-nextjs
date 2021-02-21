@@ -1,7 +1,9 @@
 ---
-title: info page
+title: Welcome
 background_color: '#AEC4BE'
 ---
-## This blog was created using [NextJS](https://nextjs.org/) 
+## Hi, I am Emily and I love shopping at Aldi and writing, welcome to my blog. Here I will give you the scoop on Aldi finds - what is worth it and what is not. Please note this blog is in no way affiliated with Aldi, all opinions are my own.
 
-## To get started, read the NextJS [docs](https://nextjs.org/docs) or checkout the [repository](https://github.com/kendallstrautman/brevifolia-nextjs).
+
+## This blog was made with love with NextJS
+
