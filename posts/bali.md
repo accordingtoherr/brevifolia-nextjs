@@ -18,5 +18,3 @@ My verdict? It is very good, maybe a little bit saltier than CFA but a great alt
 
 
 
-
-Bristlecone pines grow in scattered [subalpine](https://en.wikipedia.org/wiki/Subalpine 'Subalpine') groves at high altitude in arid regions of the [Western United States](https://en.wikipedia.org/wiki/Western_United_States 'Western United States'). Bristlecones, along with all related species in class Pinopsida, are [cone-bearing](https://en.wikipedia.org/wiki/Conifer_cone 'Conifer cone') [seed plants](https://en.wikipedia.org/wiki/Seed_plant 'Seed plant') commonly known as [conifers](https://en.wikipedia.org/wiki/Conifer 'Conifer'); the name comes from the prickles on the female cones.[\[4\]](https://en.wikipedia.org/wiki/Bristlecone_pine#cite_note-ARKive-4)
